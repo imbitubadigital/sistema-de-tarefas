@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Tarefas
 
-**Acesse a aplicação online [CLICANDO AQUI](https://rocketseat.com.br)**
+**Acesse a aplicação online [CLICANDO AQUI](https://happy-cori-9fe60b.netlify.app/)**
 
 
 ![](assets/demo.png)
