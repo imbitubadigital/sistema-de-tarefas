@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Tarefas
 
-Acesse a aplicação online através do link: [Sistema de Tarefas](https://rocketseat.com.br)
+**Acesse a aplicação online [CLICANDO AQUI](https://rocketseat.com.br)**
 
 
 ![](assets/demo.png)
@@ -17,7 +17,7 @@ Implementação realizada por: **Antonio Joaquim Fernandes**
  - Cadastro de Tarefas por categoria
 
 
-## Caso deseja intalar a aplicação
+## Caso deseje instalar a aplicação
 
 Execute o seguinte comando na raíz do projeto **front-end** para instalar dependências
 
@@ -37,5 +37,5 @@ yarn start
 
 ### Backend da aplicaçao
 
-Para instalar o backend da aplicação acesse o repositório: [Sistema de Tarefas](https://rocketseat.com.br) e siga as instruções do mesmo.
+Para instalar o backend da aplicação [clique aqui](https://rocketseat.com.br) e siga as instruções do mesmo.
 
