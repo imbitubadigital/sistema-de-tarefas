@@ -37,5 +37,5 @@ yarn start
 
 ### Backend da aplicaçao
 
-Para instalar o backend da aplicação [clique aqui](https://rocketseat.com.br) e siga as instruções do mesmo.
+Para instalar o backend da aplicação [clique aqui](https://github.com/imbitubadigital/backend-sistema-tarefas) e siga as instruções do mesmo.
 
