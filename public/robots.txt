@@ -1,0 +1,22 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+
+Allow: /
+Disallow: /login/
+Disallow: /ativar-conta/
+Disallow: /checkout/
+Disallow: /sair/
+Disallow: /meus-dados/
+Disallow: /meu-endereco/
+Disallow: /trocar-senha/
+Disallow: /categorias/
+Disallow: /planos/
+Disallow: /empresas/
+Disallow: /promocoes/
+Disallow: /assinaturas/
+Disallow: /estatistica-empresas/
+Disallow: /estatistica-promocoes/
+Disallow: /estatistica-usuarios-clientes/
+Disallow: /edenuncias/
+Disallow: /termos-de-uso/
+Disallow: /politica-de-privacidade/
